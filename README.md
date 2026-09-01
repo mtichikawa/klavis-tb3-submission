@@ -25,13 +25,24 @@ own verification passes while its answer is wrong.
 | Oracle validation | reference solution scores 1.0 | **1.000** |
 | Nop validation | do-nothing scores 0 | **0.000** |
 | `/run` claude-code opus-5 max × 3 | all three genuinely fail | **0.000 / 0.000 / 0.000** |
-| `/run` codex gpt-5.6-sol xhigh × 3 | all three genuinely fail | **PENDING — see `docs/results.md`** |
+| `/run` codex gpt-5.6-sol xhigh × 3 | all three genuinely fail | **0.000 / 0.000 / 0.000** |
 | `/cheat` claude-code × 1 | zero reward | **0.000** |
-| `/cheat` codex × 1 | zero reward | **PENDING** |
+| `/cheat` codex × 1 | zero reward | **0.000, but blocked by platform policy — see below** |
 
-No trial crashed, hit a rate limit, or timed out. Every failure is a model
-failure. Full commands, configurations and per-run output are in
+**No standard trial crashed, hit a rate limit, or timed out.** All six are genuine
+model failures, verified from harbor's own per-trial `result.json` rather than from
+parsed console output. Full commands, configurations and per-run output are in
 [`docs/results.md`](docs/results.md).
+
+**One caveat, stated plainly.** The codex adversarial run returns zero reward, but
+it does so because OpenAI's platform refused the request as a possible
+cybersecurity risk, not because the verifier withstood an attack. The agent spent
+five and a half minutes searching the container for the grading harness before the
+turn was terminated. Two different framings of the instruction were tried, one of
+them explicitly scoped as red-teaming the author's own harness, with the same
+result. That run is therefore reported as an infrastructure outcome, not as
+evidence about the verifier. The claude-code adversarial run completed normally
+and scored zero.
 
 ---
 
