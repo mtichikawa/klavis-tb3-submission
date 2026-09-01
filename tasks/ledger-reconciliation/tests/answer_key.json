@@ -1,0 +1,3343 @@
+{
+"ORD-000007": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-000014": {
+"amount": "600.85",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-24"
+},
+"ORD-000023": {
+"amount": "159.21",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-13"
+},
+"ORD-000047": {
+"amount": "893.50",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-05"
+},
+"ORD-000162": {
+"amount": "88.58",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-01-26"
+},
+"ORD-000177": {
+"amount": "271.33",
+"causes": [
+"TRUNC"
+],
+"date": "2025-03-03"
+},
+"ORD-000201": {
+"amount": "502.84",
+"causes": [
+"TZ"
+],
+"date": "2025-01-20"
+},
+"ORD-000218": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-000220": {
+"amount": "272.33",
+"causes": [
+"TZ"
+],
+"date": "2025-08-05"
+},
+"ORD-000332": {
+"amount": "870.82",
+"causes": [
+"TZ"
+],
+"date": "2025-01-29"
+},
+"ORD-000333": {
+"amount": "866.57",
+"causes": [
+"TZ"
+],
+"date": "2025-05-15"
+},
+"ORD-000386": {
+"amount": "579.65",
+"causes": [
+"TZ"
+],
+"date": "2025-01-11"
+},
+"ORD-000416": {
+"amount": "227.63",
+"causes": [
+"TZ"
+],
+"date": "2025-01-03"
+},
+"ORD-000433": {
+"amount": "392.38",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-08-21"
+},
+"ORD-000438": {
+"amount": "47.23",
+"causes": [
+"TZ"
+],
+"date": "2025-07-30"
+},
+"ORD-000461": {
+"amount": "868.74",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-12-09"
+},
+"ORD-000466": {
+"amount": "199.91",
+"causes": [
+"TZ"
+],
+"date": "2025-07-26"
+},
+"ORD-000483": {
+"amount": "850.94",
+"causes": [
+"TZ"
+],
+"date": "2025-12-24"
+},
+"ORD-000513": {
+"amount": "557.09",
+"causes": [
+"TZ"
+],
+"date": "2025-06-18"
+},
+"ORD-000538": {
+"amount": "17.35",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-07-10"
+},
+"ORD-000592": {
+"amount": "517.40",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-30"
+},
+"ORD-000654": {
+"amount": "837.56",
+"causes": [
+"TRUNC"
+],
+"date": "2025-03-29"
+},
+"ORD-000745": {
+"amount": "268.56",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-22"
+},
+"ORD-000751": {
+"amount": "494.07",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-25"
+},
+"ORD-000754": {
+"amount": "391.11",
+"causes": [
+"TZ"
+],
+"date": "2025-07-02"
+},
+"ORD-000775": {
+"amount": "182.79",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-02-01"
+},
+"ORD-000796": {
+"amount": "550.89",
+"causes": [
+"TZ"
+],
+"date": "2025-12-14"
+},
+"ORD-000809": {
+"amount": "542.57",
+"causes": [
+"TRUNC"
+],
+"date": "2025-06-08"
+},
+"ORD-000816": {
+"amount": "806.21",
+"causes": [
+"TZ"
+],
+"date": "2025-10-31"
+},
+"ORD-000844": {
+"amount": "493.98",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-28"
+},
+"ORD-000916": {
+"amount": "475.15",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-08"
+},
+"ORD-000969": {
+"amount": "753.78",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-01"
+},
+"ORD-000992": {
+"amount": "795.90",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-04"
+},
+"ORD-001007": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-001021": {
+"amount": "657.31",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-24"
+},
+"ORD-001028": {
+"amount": "122.66",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-18"
+},
+"ORD-001036": {
+"amount": "247.67",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-20"
+},
+"ORD-001040": {
+"amount": "231.16",
+"causes": [
+"TZ"
+],
+"date": "2025-10-22"
+},
+"ORD-001043": {
+"amount": "798.25",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-26"
+},
+"ORD-001044": {
+"amount": "403.41",
+"causes": [
+"TZ"
+],
+"date": "2025-05-16"
+},
+"ORD-001054": {
+"amount": "415.97",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-13"
+},
+"ORD-001093": {
+"amount": "371.00",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-13"
+},
+"ORD-001114": {
+"amount": "417.66",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-02"
+},
+"ORD-001123": {
+"amount": "619.45",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-22"
+},
+"ORD-001127": {
+"amount": "596.25",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-08"
+},
+"ORD-001271": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-001300": {
+"amount": "225.19",
+"causes": [
+"TRUNC"
+],
+"date": "2025-06-08"
+},
+"ORD-001349": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-001372": {
+"amount": "777.41",
+"causes": [
+"TZ"
+],
+"date": "2025-03-05"
+},
+"ORD-001376": {
+"amount": "502.34",
+"causes": [
+"TZ"
+],
+"date": "2025-03-29"
+},
+"ORD-001415": {
+"amount": "508.30",
+"causes": [
+"TZ"
+],
+"date": "2025-02-21"
+},
+"ORD-001416": {
+"amount": "85.37",
+"causes": [
+"TZ"
+],
+"date": "2025-02-27"
+},
+"ORD-001447": {
+"amount": "829.47",
+"causes": [
+"TZ"
+],
+"date": "2025-02-24"
+},
+"ORD-001463": {
+"amount": "500.56",
+"causes": [
+"TZ"
+],
+"date": "2025-12-18"
+},
+"ORD-001568": {
+"amount": "588.47",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-01-07"
+},
+"ORD-001601": {
+"amount": "25.32",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-16"
+},
+"ORD-001628": {
+"amount": "281.99",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-30"
+},
+"ORD-001676": {
+"amount": "502.98",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-24"
+},
+"ORD-001700": {
+"amount": "728.36",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-04"
+},
+"ORD-001701": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-001743": {
+"amount": "113.35",
+"causes": [
+"TZ"
+],
+"date": "2025-07-07"
+},
+"ORD-001781": {
+"amount": "562.57",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-12-19"
+},
+"ORD-001782": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-001813": {
+"amount": "336.25",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-06-11"
+},
+"ORD-001814": {
+"amount": "346.11",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-25"
+},
+"ORD-001842": {
+"amount": "849.32",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-17"
+},
+"ORD-001875": {
+"amount": "422.57",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-04-27"
+},
+"ORD-001878": {
+"amount": "264.55",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-17"
+},
+"ORD-001897": {
+"amount": "214.91",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-21"
+},
+"ORD-001917": {
+"amount": "345.43",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-27"
+},
+"ORD-001979": {
+"amount": "620.73",
+"causes": [
+"TZ"
+],
+"date": "2025-05-13"
+},
+"ORD-002004": {
+"amount": "21.43",
+"causes": [
+"TZ"
+],
+"date": "2025-05-17"
+},
+"ORD-002010": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002048": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002070": {
+"amount": "739.88",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-02-13"
+},
+"ORD-002084": {
+"amount": "77.59",
+"causes": [
+"TZ"
+],
+"date": "2025-05-30"
+},
+"ORD-002088": {
+"amount": "223.45",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-01-10"
+},
+"ORD-002092": {
+"amount": "483.31",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-08"
+},
+"ORD-002116": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002133": {
+"amount": "504.72",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-25"
+},
+"ORD-002181": {
+"amount": "858.04",
+"causes": [
+"TZ"
+],
+"date": "2025-01-12"
+},
+"ORD-002193": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002220": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002245": {
+"amount": "352.14",
+"causes": [
+"ERROR"
+],
+"date": "2025-10-27"
+},
+"ORD-002246": {
+"amount": "8.16",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-02"
+},
+"ORD-002285": {
+"amount": "597.03",
+"causes": [
+"ERROR"
+],
+"date": "2025-05-12"
+},
+"ORD-002287": {
+"amount": "593.82",
+"causes": [
+"TZ"
+],
+"date": "2025-02-25"
+},
+"ORD-002317": {
+"amount": "287.57",
+"causes": [
+"TZ"
+],
+"date": "2025-01-21"
+},
+"ORD-002334": {
+"amount": "889.23",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-03"
+},
+"ORD-002373": {
+"amount": "503.65",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-23"
+},
+"ORD-002384": {
+"amount": "165.87",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-11"
+},
+"ORD-002398": {
+"amount": "430.26",
+"causes": [
+"TZ"
+],
+"date": "2025-10-16"
+},
+"ORD-002453": {
+"amount": "463.28",
+"causes": [
+"TZ"
+],
+"date": "2025-08-15"
+},
+"ORD-002466": {
+"amount": "451.52",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-19"
+},
+"ORD-002469": {
+"amount": "371.44",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-19"
+},
+"ORD-002515": {
+"amount": "680.26",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-28"
+},
+"ORD-002519": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002525": {
+"amount": "600.68",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-04"
+},
+"ORD-002562": {
+"amount": "116.73",
+"causes": [
+"TZ"
+],
+"date": "2025-01-10"
+},
+"ORD-002569": {
+"amount": "229.20",
+"causes": [
+"TZ"
+],
+"date": "2025-05-01"
+},
+"ORD-002581": {
+"amount": "84.34",
+"causes": [
+"TZ"
+],
+"date": "2025-04-21"
+},
+"ORD-002623": {
+"amount": "201.11",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-15"
+},
+"ORD-002667": {
+"amount": "113.69",
+"causes": [
+"TZ"
+],
+"date": "2025-11-09"
+},
+"ORD-002683": {
+"amount": "769.10",
+"causes": [
+"TZ"
+],
+"date": "2025-05-30"
+},
+"ORD-002688": {
+"amount": "167.28",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-26"
+},
+"ORD-002709": {
+"amount": "471.83",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-06"
+},
+"ORD-002762": {
+"amount": "682.59",
+"causes": [
+"TZ"
+],
+"date": "2025-08-21"
+},
+"ORD-002779": {
+"amount": "794.69",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-01-18"
+},
+"ORD-002796": {
+"amount": "71.25",
+"causes": [
+"TRUNC"
+],
+"date": "2025-08-09"
+},
+"ORD-002806": {
+"amount": "791.06",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-31"
+},
+"ORD-002841": {
+"amount": "433.26",
+"causes": [
+"TZ"
+],
+"date": "2025-04-08"
+},
+"ORD-002870": {
+"amount": "574.13",
+"causes": [
+"TRUNC"
+],
+"date": "2025-08-12"
+},
+"ORD-002872": {
+"amount": "887.66",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-17"
+},
+"ORD-002893": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002904": {
+"amount": "722.08",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-08"
+},
+"ORD-002936": {
+"amount": "673.58",
+"causes": [
+"TZ"
+],
+"date": "2025-05-27"
+},
+"ORD-002944": {
+"amount": "9.26",
+"causes": [
+"TZ"
+],
+"date": "2025-01-27"
+},
+"ORD-002967": {
+"amount": "894.64",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-06-13"
+},
+"ORD-002972": {
+"amount": "147.64",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-03"
+},
+"ORD-002976": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002989": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-002997": {
+"amount": "601.81",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-01"
+},
+"ORD-003005": {
+"amount": "850.61",
+"causes": [
+"TZ"
+],
+"date": "2025-10-27"
+},
+"ORD-003013": {
+"amount": "293.69",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-07-24"
+},
+"ORD-003015": {
+"amount": "203.03",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-01-19"
+},
+"ORD-003016": {
+"amount": "644.81",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-03"
+},
+"ORD-003036": {
+"amount": "789.16",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-29"
+},
+"ORD-003095": {
+"amount": "559.27",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-08-19"
+},
+"ORD-003145": {
+"amount": "116.45",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-09"
+},
+"ORD-003200": {
+"amount": "750.65",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-25"
+},
+"ORD-003204": {
+"amount": "32.57",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-01"
+},
+"ORD-003206": {
+"amount": "30.78",
+"causes": [
+"TZ"
+],
+"date": "2025-02-11"
+},
+"ORD-003247": {
+"amount": "181.39",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-09-28"
+},
+"ORD-003272": {
+"amount": "871.52",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-28"
+},
+"ORD-003308": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-003311": {
+"amount": "640.51",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-01-11"
+},
+"ORD-003317": {
+"amount": "280.64",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-11-25"
+},
+"ORD-003330": {
+"amount": "128.78",
+"causes": [
+"ERROR"
+],
+"date": "2025-05-14"
+},
+"ORD-003359": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-003361": {
+"amount": "405.17",
+"causes": [
+"TZ"
+],
+"date": "2025-11-27"
+},
+"ORD-003387": {
+"amount": "69.06",
+"causes": [
+"TZ"
+],
+"date": "2025-10-22"
+},
+"ORD-003390": {
+"amount": "513.05",
+"causes": [
+"TZ"
+],
+"date": "2025-12-17"
+},
+"ORD-003410": {
+"amount": "37.59",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-11-18"
+},
+"ORD-003459": {
+"amount": "748.34",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-07-07"
+},
+"ORD-003462": {
+"amount": "691.92",
+"causes": [
+"TZ"
+],
+"date": "2025-06-09"
+},
+"ORD-003484": {
+"amount": "527.03",
+"causes": [
+"TZ"
+],
+"date": "2025-12-27"
+},
+"ORD-003503": {
+"amount": "280.63",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-01"
+},
+"ORD-003506": {
+"amount": "172.03",
+"causes": [
+"TZ"
+],
+"date": "2025-02-08"
+},
+"ORD-003518": {
+"amount": "341.93",
+"causes": [
+"TZ"
+],
+"date": "2025-04-18"
+},
+"ORD-003551": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-003590": {
+"amount": "670.72",
+"causes": [
+"TZ"
+],
+"date": "2025-03-28"
+},
+"ORD-003623": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-003646": {
+"amount": "857.55",
+"causes": [
+"TZ"
+],
+"date": "2025-11-17"
+},
+"ORD-003662": {
+"amount": "77.37",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-04-19"
+},
+"ORD-003728": {
+"amount": "704.54",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-18"
+},
+"ORD-003766": {
+"amount": "90.53",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-06"
+},
+"ORD-003876": {
+"amount": "850.23",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-11"
+},
+"ORD-003915": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-003928": {
+"amount": "717.42",
+"causes": [
+"TZ"
+],
+"date": "2025-11-17"
+},
+"ORD-003960": {
+"amount": "130.59",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-04"
+},
+"ORD-003984": {
+"amount": "834.78",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-05-22"
+},
+"ORD-004012": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004017": {
+"amount": "731.46",
+"causes": [
+"TZ"
+],
+"date": "2025-12-26"
+},
+"ORD-004029": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004039": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004042": {
+"amount": "249.41",
+"causes": [
+"TZ"
+],
+"date": "2025-11-22"
+},
+"ORD-004064": {
+"amount": "32.29",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-16"
+},
+"ORD-004074": {
+"amount": "238.38",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-11"
+},
+"ORD-004092": {
+"amount": "332.30",
+"causes": [
+"TZ"
+],
+"date": "2025-01-13"
+},
+"ORD-004103": {
+"amount": "36.41",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-10"
+},
+"ORD-004107": {
+"amount": "486.04",
+"causes": [
+"TRUNC"
+],
+"date": "2025-06-12"
+},
+"ORD-004135": {
+"amount": "766.58",
+"causes": [
+"TZ"
+],
+"date": "2025-11-27"
+},
+"ORD-004182": {
+"amount": "178.40",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-27"
+},
+"ORD-004201": {
+"amount": "704.98",
+"causes": [
+"TZ"
+],
+"date": "2025-11-20"
+},
+"ORD-004220": {
+"amount": "683.35",
+"causes": [
+"TZ"
+],
+"date": "2025-11-25"
+},
+"ORD-004264": {
+"amount": "692.04",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-25"
+},
+"ORD-004279": {
+"amount": "643.57",
+"causes": [
+"ERROR"
+],
+"date": "2025-10-29"
+},
+"ORD-004355": {
+"amount": "305.86",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-09"
+},
+"ORD-004371": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004398": {
+"amount": "222.68",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-07-27"
+},
+"ORD-004425": {
+"amount": "661.33",
+"causes": [
+"TZ"
+],
+"date": "2025-09-09"
+},
+"ORD-004465": {
+"amount": "523.15",
+"causes": [
+"TZ"
+],
+"date": "2025-11-10"
+},
+"ORD-004474": {
+"amount": "801.19",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-23"
+},
+"ORD-004538": {
+"amount": "617.95",
+"causes": [
+"TZ"
+],
+"date": "2025-09-13"
+},
+"ORD-004569": {
+"amount": "549.79",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-05-18"
+},
+"ORD-004592": {
+"amount": "816.84",
+"causes": [
+"TZ"
+],
+"date": "2025-08-18"
+},
+"ORD-004606": {
+"amount": "333.41",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-02-04"
+},
+"ORD-004658": {
+"amount": "643.83",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-16"
+},
+"ORD-004689": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004695": {
+"amount": "80.15",
+"causes": [
+"TZ"
+],
+"date": "2025-12-18"
+},
+"ORD-004749": {
+"amount": "532.70",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-26"
+},
+"ORD-004750": {
+"amount": "14.27",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-23"
+},
+"ORD-004766": {
+"amount": "747.83",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-06"
+},
+"ORD-004768": {
+"amount": "241.57",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-22"
+},
+"ORD-004773": {
+"amount": "746.44",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-18"
+},
+"ORD-004784": {
+"amount": "237.08",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-20"
+},
+"ORD-004785": {
+"amount": "366.35",
+"causes": [
+"TZ"
+],
+"date": "2025-12-21"
+},
+"ORD-004827": {
+"amount": "81.52",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-09"
+},
+"ORD-004861": {
+"amount": "130.44",
+"causes": [
+"ERROR"
+],
+"date": "2025-02-28"
+},
+"ORD-004906": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-004925": {
+"amount": "820.42",
+"causes": [
+"TZ"
+],
+"date": "2025-04-09"
+},
+"ORD-004939": {
+"amount": "891.34",
+"causes": [
+"TZ"
+],
+"date": "2025-01-28"
+},
+"ORD-004946": {
+"amount": "517.77",
+"causes": [
+"TZ"
+],
+"date": "2025-03-12"
+},
+"ORD-004956": {
+"amount": "243.54",
+"causes": [
+"TZ"
+],
+"date": "2025-10-13"
+},
+"ORD-004987": {
+"amount": "611.73",
+"causes": [
+"TZ"
+],
+"date": "2025-11-15"
+},
+"ORD-004999": {
+"amount": "223.89",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-19"
+},
+"ORD-005001": {
+"amount": "125.40",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-20"
+},
+"ORD-005009": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-005019": {
+"amount": "200.37",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-07"
+},
+"ORD-005023": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-005037": {
+"amount": "242.88",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-03-17"
+},
+"ORD-005062": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-005090": {
+"amount": "88.60",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-11"
+},
+"ORD-005095": {
+"amount": "784.79",
+"causes": [
+"TZ"
+],
+"date": "2025-01-23"
+},
+"ORD-005124": {
+"amount": "383.45",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-02"
+},
+"ORD-005133": {
+"amount": "114.28",
+"causes": [
+"TZ"
+],
+"date": "2025-12-10"
+},
+"ORD-005148": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-005188": {
+"amount": "430.70",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-11-21"
+},
+"ORD-005197": {
+"amount": "824.35",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-16"
+},
+"ORD-005347": {
+"amount": "242.73",
+"causes": [
+"TZ"
+],
+"date": "2025-02-13"
+},
+"ORD-005358": {
+"amount": "621.72",
+"causes": [
+"TRUNC"
+],
+"date": "2025-08-04"
+},
+"ORD-005369": {
+"amount": "550.04",
+"causes": [
+"TZ"
+],
+"date": "2025-09-04"
+},
+"ORD-005382": {
+"amount": "474.54",
+"causes": [
+"TZ"
+],
+"date": "2025-12-04"
+},
+"ORD-005397": {
+"amount": "788.86",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-28"
+},
+"ORD-005413": {
+"amount": "591.01",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-31"
+},
+"ORD-005422": {
+"amount": "742.43",
+"causes": [
+"TZ"
+],
+"date": "2025-01-22"
+},
+"ORD-005509": {
+"amount": "149.18",
+"causes": [
+"TZ"
+],
+"date": "2025-11-01"
+},
+"ORD-005515": {
+"amount": "422.85",
+"causes": [
+"ERROR"
+],
+"date": "2025-10-02"
+},
+"ORD-005522": {
+"amount": "197.30",
+"causes": [
+"TZ"
+],
+"date": "2025-03-20"
+},
+"ORD-005550": {
+"amount": "637.38",
+"causes": [
+"ERROR"
+],
+"date": "2025-06-19"
+},
+"ORD-005593": {
+"amount": "830.67",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-05-19"
+},
+"ORD-005617": {
+"amount": "337.39",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-20"
+},
+"ORD-005672": {
+"amount": "808.12",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-03"
+},
+"ORD-005715": {
+"amount": "680.46",
+"causes": [
+"TZ"
+],
+"date": "2025-02-05"
+},
+"ORD-005768": {
+"amount": "401.19",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-05"
+},
+"ORD-005773": {
+"amount": "652.26",
+"causes": [
+"ERROR"
+],
+"date": "2025-10-27"
+},
+"ORD-005792": {
+"amount": "765.21",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-19"
+},
+"ORD-005801": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-005884": {
+"amount": "554.87",
+"causes": [
+"ERROR"
+],
+"date": "2025-07-27"
+},
+"ORD-005991": {
+"amount": "78.03",
+"causes": [
+"TZ"
+],
+"date": "2025-12-24"
+},
+"ORD-006015": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006023": {
+"amount": "666.89",
+"causes": [
+"ERROR"
+],
+"date": "2025-07-10"
+},
+"ORD-006081": {
+"amount": "109.32",
+"causes": [
+"TZ"
+],
+"date": "2025-10-27"
+},
+"ORD-006088": {
+"amount": "891.26",
+"causes": [
+"TZ"
+],
+"date": "2025-09-07"
+},
+"ORD-006089": {
+"amount": "38.24",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-07-27"
+},
+"ORD-006099": {
+"amount": "418.20",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-10"
+},
+"ORD-006104": {
+"amount": "233.67",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-14"
+},
+"ORD-006113": {
+"amount": "238.25",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-17"
+},
+"ORD-006149": {
+"amount": "564.29",
+"causes": [
+"TZ"
+],
+"date": "2025-06-03"
+},
+"ORD-006191": {
+"amount": "702.50",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-12-10"
+},
+"ORD-006218": {
+"amount": "311.92",
+"causes": [
+"TZ"
+],
+"date": "2025-03-09"
+},
+"ORD-006235": {
+"amount": "91.17",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-01-12"
+},
+"ORD-006315": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006334": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006373": {
+"amount": "867.60",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-07"
+},
+"ORD-006393": {
+"amount": "713.51",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-02-24"
+},
+"ORD-006415": {
+"amount": "283.81",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-05"
+},
+"ORD-006420": {
+"amount": "781.58",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-05-28"
+},
+"ORD-006463": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006508": {
+"amount": "112.87",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-11"
+},
+"ORD-006513": {
+"amount": "632.56",
+"causes": [
+"TZ"
+],
+"date": "2025-03-24"
+},
+"ORD-006524": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006542": {
+"amount": "491.10",
+"causes": [
+"TZ"
+],
+"date": "2025-12-07"
+},
+"ORD-006550": {
+"amount": "695.29",
+"causes": [
+"ERROR"
+],
+"date": "2025-06-12"
+},
+"ORD-006557": {
+"amount": "650.69",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-08"
+},
+"ORD-006590": {
+"amount": "614.17",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-06"
+},
+"ORD-006636": {
+"amount": "604.19",
+"causes": [
+"TZ"
+],
+"date": "2025-02-22"
+},
+"ORD-006661": {
+"amount": "710.60",
+"causes": [
+"TZ"
+],
+"date": "2025-11-19"
+},
+"ORD-006663": {
+"amount": "898.58",
+"causes": [
+"TZ"
+],
+"date": "2025-03-15"
+},
+"ORD-006666": {
+"amount": "453.93",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-04-03"
+},
+"ORD-006671": {
+"amount": "254.87",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-03"
+},
+"ORD-006693": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006722": {
+"amount": "313.75",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-04"
+},
+"ORD-006733": {
+"amount": "685.71",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-18"
+},
+"ORD-006740": {
+"amount": "629.92",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-16"
+},
+"ORD-006748": {
+"amount": "470.12",
+"causes": [
+"TZ"
+],
+"date": "2025-05-26"
+},
+"ORD-006765": {
+"amount": "364.12",
+"causes": [
+"TZ"
+],
+"date": "2025-07-15"
+},
+"ORD-006769": {
+"amount": "857.24",
+"causes": [
+"TZ"
+],
+"date": "2025-12-01"
+},
+"ORD-006790": {
+"amount": "660.73",
+"causes": [
+"TZ"
+],
+"date": "2025-07-28"
+},
+"ORD-006799": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006809": {
+"amount": "116.95",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-24"
+},
+"ORD-006873": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006880": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-006950": {
+"amount": "885.51",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-06-23"
+},
+"ORD-007009": {
+"amount": "390.72",
+"causes": [
+"TZ"
+],
+"date": "2025-09-08"
+},
+"ORD-007016": {
+"amount": "268.29",
+"causes": [
+"TRUNC"
+],
+"date": "2025-03-05"
+},
+"ORD-007017": {
+"amount": "716.69",
+"causes": [
+"TZ"
+],
+"date": "2025-12-28"
+},
+"ORD-007047": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007160": {
+"amount": "529.66",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-21"
+},
+"ORD-007226": {
+"amount": "553.62",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-10"
+},
+"ORD-007232": {
+"amount": "323.48",
+"causes": [
+"TZ"
+],
+"date": "2025-02-13"
+},
+"ORD-007264": {
+"amount": "222.03",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-05"
+},
+"ORD-007311": {
+"amount": "798.54",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-10"
+},
+"ORD-007337": {
+"amount": "118.37",
+"causes": [
+"TZ"
+],
+"date": "2025-12-19"
+},
+"ORD-007351": {
+"amount": "556.66",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-14"
+},
+"ORD-007362": {
+"amount": "457.22",
+"causes": [
+"TRUNC"
+],
+"date": "2025-03-19"
+},
+"ORD-007365": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007375": {
+"amount": "847.83",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-07"
+},
+"ORD-007395": {
+"amount": "180.14",
+"causes": [
+"TZ"
+],
+"date": "2025-05-03"
+},
+"ORD-007425": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007473": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007499": {
+"amount": "814.82",
+"causes": [
+"TZ"
+],
+"date": "2025-01-27"
+},
+"ORD-007526": {
+"amount": "34.88",
+"causes": [
+"TZ"
+],
+"date": "2025-03-15"
+},
+"ORD-007563": {
+"amount": "772.69",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-03"
+},
+"ORD-007661": {
+"amount": "825.01",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-10-11"
+},
+"ORD-007705": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007715": {
+"amount": "787.28",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-30"
+},
+"ORD-007721": {
+"amount": "288.60",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-11-11"
+},
+"ORD-007836": {
+"amount": "106.75",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-08-08"
+},
+"ORD-007944": {
+"amount": "808.16",
+"causes": [
+"TZ"
+],
+"date": "2025-12-08"
+},
+"ORD-007956": {
+"amount": "480.16",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-08-25"
+},
+"ORD-007959": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-007983": {
+"amount": "775.95",
+"causes": [
+"TZ"
+],
+"date": "2025-09-16"
+},
+"ORD-007985": {
+"amount": "187.42",
+"causes": [
+"ERROR"
+],
+"date": "2025-05-03"
+},
+"ORD-007991": {
+"amount": "892.64",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-04"
+},
+"ORD-008066": {
+"amount": "581.39",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-10"
+},
+"ORD-008098": {
+"amount": "185.85",
+"causes": [
+"TZ"
+],
+"date": "2025-01-24"
+},
+"ORD-008162": {
+"amount": "120.99",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-05"
+},
+"ORD-008169": {
+"amount": "127.27",
+"causes": [
+"TZ"
+],
+"date": "2025-12-27"
+},
+"ORD-008187": {
+"amount": "94.61",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-05-27"
+},
+"ORD-008199": {
+"amount": "705.77",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-09"
+},
+"ORD-008201": {
+"amount": "385.95",
+"causes": [
+"TZ"
+],
+"date": "2025-01-06"
+},
+"ORD-008235": {
+"amount": "737.99",
+"causes": [
+"ERROR"
+],
+"date": "2025-02-22"
+},
+"ORD-008238": {
+"amount": "443.01",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-23"
+},
+"ORD-008308": {
+"amount": "254.57",
+"causes": [
+"TZ"
+],
+"date": "2025-05-13"
+},
+"ORD-008347": {
+"amount": "555.83",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-10"
+},
+"ORD-008359": {
+"amount": "58.49",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-31"
+},
+"ORD-008367": {
+"amount": "183.89",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-05-19"
+},
+"ORD-008373": {
+"amount": "804.06",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-04"
+},
+"ORD-008400": {
+"amount": "85.28",
+"causes": [
+"TZ"
+],
+"date": "2025-02-27"
+},
+"ORD-008402": {
+"amount": "87.87",
+"causes": [
+"TZ"
+],
+"date": "2025-06-24"
+},
+"ORD-008416": {
+"amount": "785.84",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-10"
+},
+"ORD-008425": {
+"amount": "540.37",
+"causes": [
+"TZ"
+],
+"date": "2025-12-27"
+},
+"ORD-008441": {
+"amount": "177.34",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-12"
+},
+"ORD-008470": {
+"amount": "692.00",
+"causes": [
+"TZ"
+],
+"date": "2025-02-07"
+},
+"ORD-008528": {
+"amount": "213.73",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-04-08"
+},
+"ORD-008542": {
+"amount": "650.96",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-12"
+},
+"ORD-008544": {
+"amount": "812.18",
+"causes": [
+"TZ"
+],
+"date": "2025-02-19"
+},
+"ORD-008561": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-008591": {
+"amount": "356.64",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-06"
+},
+"ORD-008613": {
+"amount": "779.14",
+"causes": [
+"TZ"
+],
+"date": "2025-02-23"
+},
+"ORD-008630": {
+"amount": "443.21",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-05-21"
+},
+"ORD-008663": {
+"amount": "722.16",
+"causes": [
+"TZ"
+],
+"date": "2025-06-30"
+},
+"ORD-008676": {
+"amount": "31.09",
+"causes": [
+"TZ"
+],
+"date": "2025-03-08"
+},
+"ORD-008697": {
+"amount": "895.15",
+"causes": [
+"ERROR"
+],
+"date": "2025-02-27"
+},
+"ORD-008712": {
+"amount": "160.64",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-09"
+},
+"ORD-008740": {
+"amount": "396.59",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-27"
+},
+"ORD-008749": {
+"amount": "319.22",
+"causes": [
+"ERROR"
+],
+"date": "2025-06-17"
+},
+"ORD-008760": {
+"amount": "410.75",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-29"
+},
+"ORD-008763": {
+"amount": "554.58",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-11-12"
+},
+"ORD-008796": {
+"amount": "892.16",
+"causes": [
+"TZ"
+],
+"date": "2025-08-15"
+},
+"ORD-008827": {
+"amount": "236.84",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-28"
+},
+"ORD-008839": {
+"amount": "660.73",
+"causes": [
+"TRUNC"
+],
+"date": "2025-08-12"
+},
+"ORD-008844": {
+"amount": "635.40",
+"causes": [
+"ERROR"
+],
+"date": "2025-07-03"
+},
+"ORD-008882": {
+"amount": "549.29",
+"causes": [
+"TZ"
+],
+"date": "2025-08-25"
+},
+"ORD-008883": {
+"amount": "804.07",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-16"
+},
+"ORD-008978": {
+"amount": "807.32",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-12-06"
+},
+"ORD-008991": {
+"amount": "10.70",
+"causes": [
+"TZ"
+],
+"date": "2025-06-16"
+},
+"ORD-009015": {
+"amount": "311.37",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-01"
+},
+"ORD-009038": {
+"amount": "487.46",
+"causes": [
+"TZ"
+],
+"date": "2025-05-13"
+},
+"ORD-009039": {
+"amount": "418.98",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-01-16"
+},
+"ORD-009049": {
+"amount": "463.92",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-02"
+},
+"ORD-009051": {
+"amount": "391.44",
+"causes": [
+"TZ"
+],
+"date": "2025-11-10"
+},
+"ORD-009055": {
+"amount": "41.60",
+"causes": [
+"TZ"
+],
+"date": "2025-01-22"
+},
+"ORD-009084": {
+"amount": "35.95",
+"causes": [
+"TZ"
+],
+"date": "2025-02-11"
+},
+"ORD-009117": {
+"amount": "193.99",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-11"
+},
+"ORD-009133": {
+"amount": "217.88",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-09"
+},
+"ORD-009229": {
+"amount": "504.51",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-24"
+},
+"ORD-009259": {
+"amount": "289.29",
+"causes": [
+"ERROR"
+],
+"date": "2025-06-18"
+},
+"ORD-009262": {
+"amount": "483.43",
+"causes": [
+"ERROR"
+],
+"date": "2025-01-06"
+},
+"ORD-009265": {
+"amount": "398.59",
+"causes": [
+"TRUNC"
+],
+"date": "2025-08-12"
+},
+"ORD-009278": {
+"amount": "716.22",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-28"
+},
+"ORD-009332": {
+"amount": "454.36",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-13"
+},
+"ORD-009354": {
+"amount": "463.59",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-12"
+},
+"ORD-009363": {
+"amount": "866.64",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-15"
+},
+"ORD-009423": {
+"amount": "710.83",
+"causes": [
+"TZ"
+],
+"date": "2025-10-19"
+},
+"ORD-009430": {
+"amount": "404.46",
+"causes": [
+"TZ"
+],
+"date": "2025-04-06"
+},
+"ORD-009431": {
+"amount": "582.30",
+"causes": [
+"TZ"
+],
+"date": "2025-10-14"
+},
+"ORD-009435": {
+"amount": "418.35",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-12-21"
+},
+"ORD-009444": {
+"amount": "297.17",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-24"
+},
+"ORD-009458": {
+"amount": "123.52",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-03-12"
+},
+"ORD-009468": {
+"amount": "390.78",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-30"
+},
+"ORD-009477": {
+"amount": "250.81",
+"causes": [
+"TZ"
+],
+"date": "2025-08-10"
+},
+"ORD-009509": {
+"amount": "808.66",
+"causes": [
+"TRUNC"
+],
+"date": "2025-12-26"
+},
+"ORD-009530": {
+"amount": "890.36",
+"causes": [
+"TZ"
+],
+"date": "2025-06-15"
+},
+"ORD-009537": {
+"amount": "81.67",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-21"
+},
+"ORD-009591": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-009610": {
+"amount": "380.13",
+"causes": [
+"TRUNC"
+],
+"date": "2025-03-04"
+},
+"ORD-009624": {
+"amount": "295.84",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-09-05"
+},
+"ORD-009629": {
+"amount": "50.84",
+"causes": [
+"TZ"
+],
+"date": "2025-04-25"
+},
+"ORD-009661": {
+"amount": "428.76",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-27"
+},
+"ORD-009672": {
+"amount": "336.22",
+"causes": [
+"TZ"
+],
+"date": "2025-11-29"
+},
+"ORD-009673": {
+"amount": "608.48",
+"causes": [
+"TRUNC"
+],
+"date": "2025-06-09"
+},
+"ORD-009742": {
+"amount": "15.19",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-30"
+},
+"ORD-009748": {
+"amount": "495.40",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-22"
+},
+"ORD-009755": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-009762": {
+"amount": "398.93",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-21"
+},
+"ORD-009774": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-009825": {
+"amount": "397.08",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-03-30"
+},
+"ORD-009839": {
+"amount": "800.73",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-12-26"
+},
+"ORD-009869": {
+"amount": "219.81",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-08"
+},
+"ORD-009879": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-009931": {
+"amount": "678.61",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-06-23"
+},
+"ORD-009955": {
+"amount": "533.08",
+"causes": [
+"TZ"
+],
+"date": "2025-11-09"
+},
+"ORD-010005": {
+"amount": "38.48",
+"causes": [
+"TZ"
+],
+"date": "2025-11-18"
+},
+"ORD-010028": {
+"amount": "263.50",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-24"
+},
+"ORD-010031": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-010135": {
+"amount": "872.84",
+"causes": [
+"TZ"
+],
+"date": "2025-09-29"
+},
+"ORD-010184": {
+"amount": "815.61",
+"causes": [
+"TZ"
+],
+"date": "2025-06-06"
+},
+"ORD-010190": {
+"amount": "270.23",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-12"
+},
+"ORD-010231": {
+"amount": "24.76",
+"causes": [
+"TZ"
+],
+"date": "2025-04-29"
+},
+"ORD-010236": {
+"amount": "437.42",
+"causes": [
+"TZ"
+],
+"date": "2025-01-07"
+},
+"ORD-010302": {
+"amount": "523.86",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-01-29"
+},
+"ORD-010311": {
+"amount": "226.74",
+"causes": [
+"ERROR"
+],
+"date": "2025-05-05"
+},
+"ORD-010398": {
+"amount": "252.64",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-03-26"
+},
+"ORD-010406": {
+"amount": "234.20",
+"causes": [
+"TRUNC"
+],
+"date": "2025-11-17"
+},
+"ORD-010409": {
+"amount": "513.62",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-26"
+},
+"ORD-010410": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-010459": {
+"amount": "152.14",
+"causes": [
+"TRUNC"
+],
+"date": "2025-07-06"
+},
+"ORD-010476": {
+"amount": "202.35",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-19"
+},
+"ORD-010525": {
+"amount": "259.20",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-02-05"
+},
+"ORD-010561": {
+"amount": "170.16",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-19"
+},
+"ORD-010586": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-010616": {
+"amount": "182.76",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-02-21"
+},
+"ORD-010682": {
+"amount": "277.94",
+"causes": [
+"TZ"
+],
+"date": "2025-08-31"
+},
+"ORD-010715": {
+"amount": "219.37",
+"causes": [
+"TZ"
+],
+"date": "2025-04-15"
+},
+"ORD-010750": {
+"amount": "552.12",
+"causes": [
+"TZ"
+],
+"date": "2025-08-04"
+},
+"ORD-010786": {
+"amount": "275.72",
+"causes": [
+"TRUNC",
+"TZ"
+],
+"date": "2025-10-03"
+},
+"ORD-010788": {
+"amount": "720.38",
+"causes": [
+"TZ"
+],
+"date": "2025-04-27"
+},
+"ORD-010838": {
+"amount": "49.77",
+"causes": [
+"TZ"
+],
+"date": "2025-08-19"
+},
+"ORD-010846": {
+"amount": "473.74",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-13"
+},
+"ORD-010865": {
+"amount": "404.84",
+"causes": [
+"ERROR"
+],
+"date": "2025-06-09"
+},
+"ORD-010867": {
+"amount": "385.96",
+"causes": [
+"TZ"
+],
+"date": "2025-01-28"
+},
+"ORD-010870": {
+"amount": "593.19",
+"causes": [
+"TZ"
+],
+"date": "2025-10-30"
+},
+"ORD-010889": {
+"amount": "87.93",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-07"
+},
+"ORD-010925": {
+"amount": "487.11",
+"causes": [
+"TRUNC"
+],
+"date": "2025-05-18"
+},
+"ORD-010933": {
+"amount": "812.17",
+"causes": [
+"TZ"
+],
+"date": "2025-09-09"
+},
+"ORD-010995": {
+"amount": "454.28",
+"causes": [
+"ERROR"
+],
+"date": "2025-10-23"
+},
+"ORD-010998": {
+"amount": "372.81",
+"causes": [
+"TRUNC"
+],
+"date": "2025-04-15"
+},
+"ORD-011003": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-011006": {
+"amount": "624.32",
+"causes": [
+"ERROR"
+],
+"date": "2025-07-04"
+},
+"ORD-011012": {
+"amount": "614.68",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-29"
+},
+"ORD-011052": {
+"amount": "520.65",
+"causes": [
+"TZ"
+],
+"date": "2025-01-07"
+},
+"ORD-011132": {
+"amount": "8.53",
+"causes": [
+"ERROR",
+"TRUNC"
+],
+"date": "2025-09-11"
+},
+"ORD-011169": {
+"amount": "779.37",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-13"
+},
+"ORD-011175": {
+"amount": "258.33",
+"causes": [
+"TZ"
+],
+"date": "2025-02-23"
+},
+"ORD-011199": {
+"amount": "177.98",
+"causes": [
+"TZ"
+],
+"date": "2025-07-10"
+},
+"ORD-011232": {
+"amount": "836.22",
+"causes": [
+"ERROR"
+],
+"date": "2025-03-01"
+},
+"ORD-011269": {
+"amount": "492.65",
+"causes": [
+"ERROR",
+"TZ"
+],
+"date": "2025-02-20"
+},
+"ORD-011270": {
+"amount": "132.32",
+"causes": [
+"TRUNC"
+],
+"date": "2025-09-20"
+},
+"ORD-011289": {
+"amount": "532.73",
+"causes": [
+"TRUNC"
+],
+"date": "2025-06-30"
+},
+"ORD-011337": {
+"amount": "9.27",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-10"
+},
+"ORD-011340": {
+"amount": "302.87",
+"causes": [
+"TZ"
+],
+"date": "2025-05-11"
+},
+"ORD-011382": {
+"amount": "459.34",
+"causes": [
+"TZ"
+],
+"date": "2025-01-23"
+},
+"ORD-011396": {
+"amount": "664.43",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-04"
+},
+"ORD-011487": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-011533": {
+"amount": "70.64",
+"causes": [
+"TRUNC"
+],
+"date": "2025-02-08"
+},
+"ORD-011534": {
+"amount": "134.52",
+"causes": [
+"ERROR"
+],
+"date": "2025-12-15"
+},
+"ORD-011546": {
+"amount": "517.00",
+"causes": [
+"ERROR"
+],
+"date": "2025-09-11"
+},
+"ORD-011560": {
+"amount": "538.69",
+"causes": [
+"TRUNC"
+],
+"date": "2025-01-04"
+},
+"ORD-011576": {
+"amount": "89.88",
+"causes": [
+"ERROR"
+],
+"date": "2025-11-30"
+},
+"ORD-011587": {
+"amount": "814.28",
+"causes": [
+"ERROR"
+],
+"date": "2025-05-19"
+},
+"ORD-011619": {
+"amount": "26.47",
+"causes": [
+"TRUNC"
+],
+"date": "2025-10-31"
+},
+"ORD-011634": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-011669": {
+"amount": "190.47",
+"causes": [
+"ERROR"
+],
+"date": "2025-08-30"
+},
+"ORD-011800": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+},
+"ORD-011810": {
+"amount": "347.90",
+"causes": [
+"ERROR"
+],
+"date": "2025-04-12"
+},
+"ORD-011844": {
+"amount": "",
+"causes": [
+"DELETE"
+],
+"date": ""
+}
+}
