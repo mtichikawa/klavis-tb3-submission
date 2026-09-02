@@ -27,7 +27,7 @@ own verification passes while its answer is wrong.
 | `/run` claude-code opus-5 max × 3 | all three genuinely fail | **0.000 / 0.000 / 0.000** |
 | `/run` codex gpt-5.6-sol xhigh × 3 | all three genuinely fail | **0.000 / 0.000 / 0.000** |
 | `/cheat` claude-code × 1 | zero reward | **0.000** |
-| `/cheat` codex × 1 | zero reward | **0.000, but blocked by platform policy — see below** |
+| `/cheat` codex × 1 | zero reward | **0.000, but blocked by platform policy, see below** |
 
 **No standard trial crashed, hit a rate limit, or timed out.** All six are genuine
 model failures, verified from harbor's own per-trial `result.json` rather than from
@@ -91,8 +91,8 @@ including twice seven minutes apart with only a README edit between them. The
 
 This is reported rather than hidden because it matters for how the gate should be
 read. A single rubric run is a data point, not a verdict, and the criteria that
-resolved decisively for this task — `essential_difficulty` after a data fix, and
-the anti-cheat criteria — were the ones backed by a concrete demonstration rather
+resolved decisively for this task, `essential_difficulty` after a data fix, and
+the anti-cheat criteria, were the ones backed by a concrete demonstration rather
 than a judgment call.
 
 ## License

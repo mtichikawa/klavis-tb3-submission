@@ -37,27 +37,27 @@ The guard recorded them as errors. Without it there would have been seventy-one
 fake candidates and no way to tell them from the real ones.
 
 **A status ledger generated from disk, not maintained by hand.** The prose log went
-stale twice inside 48 hours — it claimed 70 probes were untested when they had
+stale twice inside 48 hours, it claimed 70 probes were untested when they had
 been, and recorded a candidate as a survivor when it had failed once and passed
 twice. Every status is now derived from the artifacts on each run.
 
 ## What did not work
 
-**Numerical and precision tasks — 6 candidates, 0 survivors.** They produce false
+**Numerical and precision tasks, 6 candidates, 0 survivors.** They produce false
 survivors rather than hard tasks. The failure is in the verifier, not the model.
 
-**Planted defects in a static codebase — 13 candidates, 2 apparent survivors, both
+**Planted defects in a static codebase, 13 candidates, 2 apparent survivors, both
 later rejected.** This family was predicted to survive and did not. Reading
 unfamiliar code and finding several buried faults is now something frontier models
 do well. One probe's agent found all four planted bugs and explained each.
 
-**Security and access control — 2 candidates, both solved.** Including the
+**Security and access control, 2 candidates, both solved.** Including the
 highest-ranked premise in the whole set.
 
-**Social science and measurement — 8 candidates, all solved.**
+**Social science and measurement, 8 candidates, all solved.**
 
 **Resurrections.** Four probes that had been solved were rebuilt around the axes
-that seemed to work — a system changing while the agent works, a component with no
+that seemed to work, a system changing while the agent works, a component with no
 readable source, a diagnostic that reports healthy because it shares the defect.
 Two were rebuilt and tested. Both were solved.
 
@@ -69,7 +69,7 @@ its answer is wrong. That is narrower than any of the hypotheses going in.
 
 It also lines up with published work: verification failures account for roughly
 47 to 60% of frontier failures on this benchmark family, and Terminal-Bench's own
-analysis attributes failures to judgment rather than execution — models reach for
+analysis attributes failures to judgment rather than execution, models reach for
 a generic method over the domain-correct one.
 
 ## The most useful negative result

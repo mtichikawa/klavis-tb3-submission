@@ -1,4 +1,4 @@
-# Results — every check, command and run
+# Results: every check, command and run
 
 Task: `ledger-reconciliation`. All runs on Docker 29.6.1, harbor installed via uv.
 Claude auth via `claude setup-token`; codex auth via `codex login`
@@ -12,9 +12,7 @@ Claude auth via `claude setup-token`; codex auth via `codex login`
 for check in scripts/checks/check-*.sh; do bash "$check" tasks/ledger-reconciliation; done
 ```
 
-**22 of 22 pass.**
-
-Four rounds of fixes were needed to get there, listed because they are the kind of
+**22 of 22 pass.** Four rounds of fixes were needed to get there, listed because they are the kind of
 thing that silently sinks a submission:
 
 | Check | What was wrong |
@@ -24,8 +22,8 @@ thing that silently sinks a submission:
 | `check-task-fields` | `README.md` missing the four required section headings |
 | `check-separate-verifier` | `tests/Dockerfile` did not pre-create the artifact parent directory |
 
-`task.toml` also carried two fields that are not in the schema — `network_mode`
-and `os` — which are silently ignored and imply configuration that is never
+`task.toml` also carried two fields that are not in the schema, `network_mode`
+and `os`, which are silently ignored and imply configuration that is never
 applied. Both removed.
 
 ---
@@ -52,7 +50,7 @@ exactly like a hard task until someone runs it.
 
 ---
 
-## 3. Standard trials — claude-code, opus-5, reasoning_effort=max
+## 3. Standard trials: claude-code, opus-5, reasoning_effort=max
 
 ```bash
 harbor run -p ledger-reconciliation --agent claude-code \
@@ -76,7 +74,7 @@ only to note that the result held across two independent datasets.
 
 ---
 
-## 4. Standard trials — codex, gpt-5.6-sol, reasoning_effort=xhigh
+## 4. Standard trials: codex, gpt-5.6-sol, reasoning_effort=xhigh
 
 ```bash
 harbor run -p ledger-reconciliation --agent codex \
@@ -90,7 +88,7 @@ harbor run -p ledger-reconciliation --agent codex \
 | 2 | 8 min | **0.000** | 0 |
 | 3 | 8 min | **0.000** | 0 |
 
-Codex quits far earlier than claude-code — 8 to 15 minutes against 31 to 40 — and
+Codex quits far earlier than claude-code, 8 to 15 minutes against 31 to 40, and
 is wrong in the same way. Neither model runs out of budget. Both stop because they
 believe they are finished.
 
@@ -141,7 +139,7 @@ against codex are constrained by OpenAI's cyber policy**, which anyone running T
 
 **Why this task is structurally hard to game.** The verifier runs in a separate
 container after the agent has stopped, holds the only copy of the answer key, and
-**never executes agent-produced code** — it parses one CSV and one markdown file.
+**never executes agent-produced code.** it parses one CSV and one markdown file.
 There is no import, no subprocess, and no path by which agent code runs inside the
 grading process.
 
@@ -163,16 +161,16 @@ harbor check ledger-reconciliation -r docs/prompts/task-implementation.toml \
 
 | Run | Pass | Fail | N/A | `difficult` | `essential_difficulty` |
 |---|---|---|---|---|---|
-| 1 | 25 | 7 | 3 | pass | — |
-| 2 | 31 | 1 | 3 | pass | — |
+| 1 | 25 | 7 | 3 | pass |, |
+| 2 | 31 | 1 | 3 | pass |, |
 | 3 | 30 | 2 | 3 | **fail** | **fail** |
 | 4 | **32** | **0** | 3 | pass | pass |
 | 5 | 31 | 1 | 3 | **fail** | pass |
 
 **Run 3 produced the one finding that changed the task.** `essential_difficulty`
 objected that the fourth defect was a residual bucket whose two sub-populations
-were disjoint — 55 records with only a corrupted date, 45 with only a corrupted
-amount, and no record carrying both — so an analyst could defensibly report five
+were disjoint, 55 records with only a corrupted date, 45 with only a corrupted
+amount, and no record carrying both, so an analyst could defensibly report five
 causes rather than four and score zero for a reasonable reading.
 
 That was correct. The generator was changed so that 18 records carry a corrupted

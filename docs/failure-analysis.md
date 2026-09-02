@@ -4,16 +4,14 @@
 
 Every trial agent read the contract, joined the two exports, and computed
 corrections. None of them failed on arithmetic. They failed on **how many
-underlying problems there are.**
-
-| Run | Labels reported | Labels in the data |
+underlying problems there are.** | Run | Labels reported | Labels in the data |
 |---|---|---|
 | Probe run 1 | 7 | 4 |
 | Probe run 2 | 5 | 4 |
 
 Both runs produced corrected dates and amounts that were largely right, and both
-scored zero, because the grading compares the *partition* — which orders group
-together — not the names.
+scored zero, because the grading compares the *partition*, which orders group
+together, not the names.
 
 The seven-label run split defects by symptom. It saw records whose business date
 was one day early, records one day late, records with a whole-dollar amount, and
