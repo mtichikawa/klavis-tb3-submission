@@ -112,7 +112,7 @@ any of them, searching the whole filesystem. Everything else is unchanged.
 
 ### The codex adversarial run did not complete
 
-Both attempts ended with harbor recording `AgentSafetyRefusalError`. The
+The run ended with harbor recording `AgentSafetyRefusalError`. The
 underlying message:
 
 > This content was flagged for possible cybersecurity risk. If this seems wrong,
@@ -123,9 +123,6 @@ The agent was working the problem when it was cut off: roughly 400 KB of trace
 showing it enumerating the filesystem for `test.sh`, `pytest.ini`, `pyproject.toml`
 and `sitecustomize.py`, which is exactly the behaviour the adversarial trial is
 meant to provoke. The termination came from the platform, not from the task.
-
-Two instruction framings were tried. The second scoped the work explicitly as the
-task author red-teaming their own grading harness before publication. Same result.
 
 **This is reported as an infrastructure outcome rather than a clean adversarial
 pass.** The requirement is that the verifier cannot be gamed, and a refusal is not
