@@ -112,7 +112,7 @@ any of them, searching the whole filesystem. Everything else is unchanged.
 
 ### The codex adversarial run did not complete
 
-The run ended with harbor recording `AgentSafetyRefusalError`. The
+Both attempts ended with harbor recording `AgentSafetyRefusalError`. The
 underlying message:
 
 > This content was flagged for possible cybersecurity risk. If this seems wrong,
